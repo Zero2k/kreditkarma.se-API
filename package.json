@@ -40,7 +40,7 @@
     "graphql-middleware": "^4.0.2",
     "graphql-tools": "^6.2.0",
     "ioredis": "^4.0.0",
-    "markdown-it": "^9.1.0",
+    "markdown-it": "^12.3.2",
     "nodemailer": "^5.1.1",
     "persistgraphql": "^0.3.11",
     "pg": "^7.3.0",
